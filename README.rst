@@ -28,3 +28,5 @@ Generates customer activity from an imaginary deli. Great for trying out Bitdeli
     Customer actions from the imaginary deli.
 
 - **Update interval:** N/A.
+
+- **Code:** `bitdeli/profile-toy-data <https://github.com/bitdeli/profile-toy-data>`_
