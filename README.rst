@@ -1,4 +1,3 @@
-
 Toy Data
 --------
 
@@ -30,9 +29,4 @@ Generates customer activity from an imaginary deli. Great for trying out Bitdeli
 - **Update interval:** N/A.
 
 - **Code:** `bitdeli/profile-toy-data <https://github.com/bitdeli/profile-toy-data>`_
-
-
-.. image:: https://d2weczhvl823v0.cloudfront.net/bitdeli/profile-toy-data/trend.png
-   :alt: Bitdeli badge
-   :target: https://bitdeli.com/free
 
